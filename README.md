@@ -1,5 +1,13 @@
 # 806starter
-Practicing how to create new repository
+
+Practicing how to create new repository\
+
 ## Purpose
-- Practice how to create new repository
-- Practice how to create a readme file
+
+-   Practice how to create new repository
+-   Practice how to create a readme file
+
+## RStudio
+
+-   Upload repository
+-   Edit readme
